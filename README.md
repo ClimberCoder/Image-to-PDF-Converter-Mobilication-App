@@ -1,4 +1,6 @@
-# Run and deploy your AI Studio app
+# Image-to-PDF-Converter-Mobile-App
+
+An Android app for converting images to PDF files and viewing PDFs, with local file management and optional cloud storage configuration.
 
 This contains everything you need to run your app locally.
 
