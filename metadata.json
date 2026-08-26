@@ -1,0 +1,6 @@
+{
+  "name": "Img to PDF",
+  "description": "Fast, private, and lightweight Img to PDF converter with intuitive reordering, page adjustments, offline creation, file manager, and cloud architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

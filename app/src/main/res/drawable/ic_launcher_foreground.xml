@@ -1,0 +1,105 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft drop shadow for photo & document cards -->
+    <path
+        android:pathData="M24,34 L58,24 L74,74 L38,84 Z"
+        android:fillColor="#26000000" />
+    <path
+        android:pathData="M44,22 L74,22 L86,34 L86,84 L44,84 Z"
+        android:fillColor="#33000000" />
+
+    <!-- 1. BACK CARD: Photo Frame / Image Card (Tilted slightly to left) -->
+    <!-- Photo Polaroid Card Body -->
+    <path
+        android:pathData="M25,32 L56,22 C58.2,21.3 60.5,22.6 61.2,24.8 L75.2,68.8 C75.9,71 74.6,73.3 72.4,74 L41.4,84 C39.2,84.7 36.9,83.4 36.2,81.2 L22.2,37.2 C21.5,35 22.8,32.7 25,32 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Photo Inner Area (Sky & Landscape) -->
+    <path
+        android:pathData="M27.5,36.5 L55.5,27.5 L65.5,58.5 L37.5,67.5 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Photo Sun Circle -->
+    <path
+        android:pathData="M48,37 A4,4 0 1,1 48,36.99 Z"
+        android:fillColor="#FBBF24" />
+
+    <!-- Photo Mountains -->
+    <path
+        android:pathData="M31,64 L41,49 L49,58 L57,47 L64,57 Z"
+        android:fillColor="#166534" />
+    <path
+        android:pathData="M44,60 L50,51 L58,60 Z"
+        android:fillColor="#22C55E" />
+
+    <!-- 2. FRONT CARD: Red PDF Document (Crisp and Modern) -->
+    <!-- White document base with folded top-right corner -->
+    <path
+        android:pathData="M42,24 L70,24 L82,36 L82,82 C82,85.3 79.3,88 76,88 L42,88 C38.7,88 36,85.3 36,82 L36,30 C36,26.7 38.7,24 42,24 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Folded top corner triangle -->
+    <path
+        android:pathData="M70,24 L70,36 L82,36 Z"
+        android:fillColor="#CBD5E1" />
+
+    <!-- Document Content Lines / Skeleton Lines -->
+    <path
+        android:pathData="M42,42 L76,42"
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M42,48 L68,48"
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M42,54 L62,54"
+        android:strokeColor="#E2E8F0"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+
+    <!-- Bold Red PDF Badge Bar -->
+    <path
+        android:pathData="M36,62 L82,62 L82,82 C82,85.3 79.3,88 76,88 L42,88 C38.7,88 36,85.3 36,82 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="36"
+                android:startY="62"
+                android:endX="82"
+                android:endY="88"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#EF4444" />
+                <item android:offset="1.0" android:color="#B91C1C" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- PDF Text Representation (White Typography) -->
+    <!-- "P" -->
+    <path
+        android:pathData="M43,69 L48,69 C49.7,69 51,70.3 51,72 C51,73.7 49.7,75 48,75 L43,75 L43,80 L40.5,80 L40.5,69 L43,69 Z M43,71.2 L43,73 L47.8,73 C48.4,73 48.8,72.6 48.8,72 C48.8,71.4 48.4,71.2 47.8,71.2 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- "D" -->
+    <path
+        android:pathData="M54,69 L58.5,69 C61,69 63,71 63,74.5 C63,78 61,80 58.5,80 L54,80 L54,69 Z M56.5,71.2 L56.5,77.8 L58.5,77.8 C59.9,77.8 60.8,76.5 60.8,74.5 C60.8,72.5 59.9,71.2 58.5,71.2 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- "F" -->
+    <path
+        android:pathData="M66.5,69 L74,69 L74,71.2 L69,71.2 L69,73.3 L73,73.3 L73,75.2 L69,75.2 L69,80 L66.5,80 L66.5,69 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Conversion Sparkle Arrow Badge (Floating between photo and PDF) -->
+    <path
+        android:pathData="M33,48 L37,44 L37,46.5 L42,46.5 L42,49.5 L37,49.5 L37,52 Z"
+        android:fillColor="#FBBF24" />
+
+</vector>

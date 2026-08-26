@@ -1,0 +1,1 @@
+sed -i 's/snackbarHost = { SnackbarHost(hostState = snackbarHostState) },/snackbarHost = { SnackbarHost(hostState = snackbarHostState) { data -> com.example.ui.components.CustomAnimatedSnackbar(data) } },/g' app/src/main/java/com/example/MainActivity.kt

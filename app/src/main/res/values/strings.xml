@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Img to PDF</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_cloud">Cloud</string>
+    <string name="nav_usage">Usage</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="select_images">Select Images</string>
+    <string name="select_images_desc">Choose JPG, PNG, or WEBP photos from device</string>
+    <string name="arrange_and_convert">Arrange &amp; Convert</string>
+    <string name="no_images_selected">No images selected</string>
+    <string name="no_images_desc">Tap the button above to import pictures from your gallery or camera.</string>
+
+    <string name="recent_conversions">Recent Conversions</string>
+    <string name="last_created_pdf">Last Created PDF</string>
+    <string name="view_all">View all</string>
+    <string name="files_shortcut">Saved Files</string>
+    <string name="cloud_shortcut">Cloud Vault</string>
+
+    <string name="pdf_created_success">PDF Created Successfully!</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="share_pdf">Share</string>
+    <string name="rename_pdf">Rename</string>
+    <string name="delete_pdf">Delete</string>
+    <string name="upload_to_cloud">Upload to Cloud</string>
+    <string name="done">Done</string>
+
+    <string name="page_size">Page Size</string>
+    <string name="page_orientation">Orientation</string>
+    <string name="image_quality">Image Quality &amp; Compression</string>
+    <string name="pdf_filename">PDF File Name</string>
+    <string name="convert_now">Convert to PDF</string>
+    <string name="creating_pdf">Creating PDF…</string>
+
+    <string name="total_pdfs_created">Total PDFs Created</string>
+    <string name="total_images_converted">Total Images Converted</string>
+    <string name="local_files_count">Local Stored Files</string>
+    <string name="cloud_files_count">Cloud Uploads</string>
+    <string name="cloud_storage_used">Cloud Storage Used</string>
+
+    <string name="unlimited_local">Unlimited Offline Conversions</string>
+    <string name="privacy_guarantee">100% On-Device Processing</string>
+    <string name="no_watermarks">No Watermarks • No Restrictions</string>
+</resources>
