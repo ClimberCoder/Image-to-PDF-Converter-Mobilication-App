@@ -2,17 +2,20 @@
 
 An Android app for converting images to PDF files and viewing PDFs, with local file management and optional cloud storage configuration.
 
-This contains everything you need to run your app locally.
+## Install
+
+1. Open the repository's [Releases](https://github.com/ClimberCoder/Image-to-PDF-Converter-Mobile-App/releases) page on an Android phone.
+2. Download the latest `app-release.apk` from the newest release.
+3. Open the downloaded APK and allow installation from that source when Android asks.
+
+The APK is built by GitHub Actions as a signed release build. Android 7.0 (API 24) or newer is required.
 
 ## Run Locally
 
 **Prerequisites:**  [Android Studio](https://developer.android.com/studio)
 
 
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
-7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+1. Open Android Studio and select the repository directory.
+2. Allow Android Studio to sync the project.
+3. Create a local `.env` file and set `GEMINI_API_KEY` if AI features are needed (see `.env.example`).
+4. Run the `app` configuration on an emulator or Android device.
