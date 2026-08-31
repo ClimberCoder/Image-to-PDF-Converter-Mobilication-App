@@ -10,6 +10,29 @@ I created This app for myself because i hate ads so i create my own app for conv
 </div>
 An Android app for converting images to PDF files and viewing PDFs. Image-to-PDF conversion, saved files, and PDF viewing work offline on the device. Cloud storage is optional.
 
+
+## Features of this APP
+
+- ⚡ **Instant Multi-Image Conversion**: Select single or batch photos (JPG, PNG, WEBP) from your gallery or camera and convert them into high-quality PDFs in under a second.
+- 📐 **Dynamic Layout & Sizing**:
+  - **Auto-Aspect Ratio**: Intelligently matches page orientation to each individual photo.
+  - **Standard Paper Sizes**: A4, Letter, Legal, A3, A5, and Original dimensions.
+  - **Custom Margins**: None, Narrow, Normal, or Wide.
+  - **Quality Compression**: Configurable High, Medium, and Low compression modes optimized for memory efficiency.
+- 🔒 **100% On-Device Privacy**: All rendering and PDF compilation takes place directly on your phone hardware. Zero tracking, zero mandatory internet connection, and zero watermarks.
+- 📖 **Interactive In-App PDF Reader**:
+  - **Dual Reading Modes**: Smooth continuous vertical scroll or 3D realistic Book page turning with realistic curvature shadows.
+  - **Reading Appearances**: Standard, Paper, Sepia, Dark Mode, and True OLED Black.
+  - **Annotation Engine**: Highlighting, freehand pencil drawing, undo/redo history, and thumbnail strip navigation.
+- 🗂️ **Storage & File Management**:
+  - Automatically indexes both **Phone Storage** and **SD Cards / External Memory**.
+  - Instant search, multi-criteria sorting (Newest, Oldest, Size, Name A-Z).
+  - Open externally, rename, delete, and share directly to WhatsApp, Drive, Mail, or any installed app.
+- 🎨 **Modern Liquid Glass UI**:
+  - Apple-inspired floating frosted-glass taskbar with smooth pager synchronization.
+  - Cinematic multilingual startup sequence with GPU-accelerated transitions.
+  - Top-aligned Dynamic Island style notifications.
+
 ## Install On Android
 
 1. Open the [Releases](https://github.com/ClimberCoder/Image-to-PDF-Converter-Mobile-App/releases) page on your phone.
