@@ -32,6 +32,13 @@ An Android app for converting images to PDF files and viewing PDFs. Image-to-PDF
   - Apple-inspired floating frosted-glass taskbar with smooth pager synchronization.
   - Cinematic multilingual startup sequence with GPU-accelerated transitions.
   - Top-aligned Dynamic Island style notifications.
+ 
+
+## 📱 Screenshots & User Experience
+
+| Convert Studio | Device Files | Storage & Specs | Built-in Reader |
+| :---: | :---: | :---: | :---: |
+| Page reordering, rotation & paper sizing | Local & SD card PDF scanner | Live RAM & storage analytics | 3D Book mode & annotations |
 
 ## Install On Android
 
