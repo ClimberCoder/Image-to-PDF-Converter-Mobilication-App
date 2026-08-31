@@ -1,3 +1,5 @@
+<div align= "center">
+
 # Image-to-PDF-Converter-Mobile-App
 
 An Android app for converting images to PDF files and viewing PDFs. Image-to-PDF conversion, saved files, and PDF viewing work offline on the device. Cloud storage is optional.
@@ -19,3 +21,8 @@ The app supports Android 7.0 (API 24) and newer. The APK is built automatically 
 3. Run the `app` configuration on an emulator or Android device.
 
 AI features are optional. To enable them, create a local `.env` file and set `GEMINI_API_KEY` as shown in `.env.example`. No cloud account is required for offline image-to-PDF conversion or PDF viewing.
+
+
+# This App 
+
+</div>
