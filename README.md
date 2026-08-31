@@ -1,7 +1,6 @@
 <div align= "center">
-
 # Image-to-PDF-Converter-Mobile-App
-
+</div>
 An Android app for converting images to PDF files and viewing PDFs. Image-to-PDF conversion, saved files, and PDF viewing work offline on the device. Cloud storage is optional.
 
 ## Install On Android
@@ -25,4 +24,3 @@ AI features are optional. To enable them, create a local `.env` file and set `GE
 
 # This App 
 
-</div>
