@@ -3,6 +3,11 @@
 # Image-to-PDF-Converter-Mobile-App
 
 </div>
+<div align="center">
+  
+I created This app for myself because i hate ads so i create my own app for converting image to pdf and also use as pdf reader
+
+</div>
 An Android app for converting images to PDF files and viewing PDFs. Image-to-PDF conversion, saved files, and PDF viewing work offline on the device. Cloud storage is optional.
 
 ## Install On Android
