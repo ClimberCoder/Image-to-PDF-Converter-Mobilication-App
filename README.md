@@ -41,7 +41,6 @@ An Android app for converting images to PDF files and viewing PDFs. Image-to-PDF
 | Page reordering, rotation & paper sizing | Local & SD card PDF scanner | Live RAM & storage analytics | 3D Book mode & annotations |
 
 ## Install On Android
-
 1. Open the [Releases](https://github.com/ClimberCoder/Image-to-PDF-Converter-Mobile-App/releases) page on your phone.
 2. Open the newest release and download `app-release.apk`.
 3. Open the APK and allow installation from that source if Android asks.
@@ -60,4 +59,5 @@ AI features are optional. To enable them, create a local `.env` file and set `GE
 
 
 # This App 
+kindly give feedback and any free suggestion on my platform
 
