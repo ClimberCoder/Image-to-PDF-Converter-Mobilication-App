@@ -61,3 +61,7 @@ AI features are optional. To enable them, create a local `.env` file and set `GE
 # This App 
 kindly give feedback and any free suggestion on my platform
 
+
+
+## SOON THE FULL APP WILL BE DEPLOYED HERE TO USE FREELY  RIGHT NOW SOME BUGS IS THERE LIKELY TO BE DELAYS BUT I AM GOING TO IMPROVE THE MEMORY OPTMIZATION
+
